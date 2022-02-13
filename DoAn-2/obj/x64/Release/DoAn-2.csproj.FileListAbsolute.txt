@@ -1,0 +1,16 @@
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\bin\x64\Release\DoAn-2.exe.config
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\bin\x64\Release\DoAn-2.exe
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\bin\x64\Release\DoAn-2.pdb
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\bin\x64\Release\FontAwesome.Sharp.dll
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn-2.csproj.AssemblyReference.cache
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn-2.csproj.ResolveComReference.cache
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn_2.MainControl.resources
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn_2.MenuTab.BanHang.resources
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn_2.MenuTab.donhang.resources
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn_2.MenuTab.Setting.resources
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn_2.Properties.Resources.resources
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn-2.csproj.GenerateResource.cache
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn-2.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn-2.csproj.CopyComplete
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn-2.exe
+C:\Users\SONY\Downloads\Pro.Hoa\Đồ án 3\Project file Visual Studio 2019\DoAn-2\DoAn-2\obj\x64\Release\DoAn-2.pdb
